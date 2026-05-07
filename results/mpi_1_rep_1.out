@@ -1,0 +1,8 @@
+status,verified
+algorithm,mpi
+ranks,1
+L,1
+U,5000000000
+max_steps,10000
+checked,5000000000
+seconds,96.536227409
